@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+@import "normalize";
+@import "variables";
+@import "fonts";
+@import "mixins";
+@import "core";
+@import 'blocks/header.scss';
+@import 'blocks/social.scss';
+@import 'blocks/hamburger.scss';
+@import 'blocks/menu.scss';
+@import './blocks/project.scss';
+@import './blocks/like.scss';
+@import './blocks/links.scss';
+@import './blocks/studio.scss';
+@import './blocks/persons.scss';
+@import './blocks/news.scss';
+@import './blocks/footer.scss';
